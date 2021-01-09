@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    padding: 1in;
+}
+
+h1,hr {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    text-align: left;
+}
+
+.row ul {
+    display: inline-flex;
+}
+
+.row li {
+    list-style: circle;
+    margin-left:30px;
+}
+
+.date {
+    float: right;
+   font:bolder;
+}
+
+.projects ul {
+    margin-top: -15px;
+}
+
+.skills li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+#basic {
+    text-align: center;
+}
